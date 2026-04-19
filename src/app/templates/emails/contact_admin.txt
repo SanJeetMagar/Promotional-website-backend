@@ -1,0 +1,10 @@
+New contact received:
+
+Name: {{ full_name }}
+Email: {{ email }}
+Phone: {{ phone }}
+Subject: {{ subject }}
+
+Message:
+{{ message }}
+
